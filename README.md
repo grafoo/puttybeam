@@ -1,5 +1,12 @@
 # puttybeam
 
+## configure
+the default session settings need to be created manually
+
+- open putty
+- select `Default Settings`
+- click `Save` Button
+
 ## build
 open a Developer Command Prompt
 
